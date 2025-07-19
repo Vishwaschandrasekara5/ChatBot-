@@ -27,4 +27,6 @@ while True:
     else:
         print("AI: Bye")
         break
+
+# you need to create .env file and add your api key to it.
     
